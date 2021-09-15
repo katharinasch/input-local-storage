@@ -8,7 +8,7 @@ function App() {
     const initialValue = JSON.parse(saved);
     return initialValue || "";
   });
-  const [agreed, setAgreed] = useState(())
+  
 
 
   useEffect(() => {
